@@ -5,6 +5,7 @@ object addition {
     var a = 2;
     var b = 3;
     var c = 4;
-    println("Addition : "+(a+b+c));
+    var d = 5;
+    println("Addition : "+(a+b+c+d));
   }
 }
