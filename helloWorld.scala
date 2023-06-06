@@ -6,5 +6,6 @@ object helloWorld {
     println("Hi Ajay");
     println("How are you");
     println("Hi Ajay Kumar");
+    println("I am good");
   }
 }
